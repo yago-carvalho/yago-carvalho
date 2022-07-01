@@ -1,16 +1,36 @@
-### Hi there 👋
+### Olá! Bem vindo ao meu Github... 
 
-<!--
-**yago-carvalho/yago-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 
 
-Here are some ideas to get you started:
+.....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://www.linkedin.com/in/yago-carvalho-dev/" target="_blank">
+  <img align="center" alt="yago-linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+
+<hr />
+
+# My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" widtf="40" height="40" style="max-width:100%;margin: 0 2px;" />
+          
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yago-carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-carvalho&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+
+<hr />
+
+# Portfólio
+
+Loading....🔨👷
+
