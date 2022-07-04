@@ -13,8 +13,7 @@
   <img align="center" alt="yago-linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-<hr />
-
+<br/>
 <br/>
 
 # My Skills
