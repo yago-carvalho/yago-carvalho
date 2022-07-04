@@ -1,15 +1,21 @@
 # 👋 Olá, Yago aqui! 
 <br/>
 
-Estudo programação a mais de um ano e busco fazer transição de carreira. Durante o tempo que venho estudando, busco me aprimorar na área de desenvolvimento web, front-end. Além de HTML, CSS e JavaScript, tenho focado em desenvolver minhas habilidades usando React.
+ Estudo programação a mais de um ano e busco fazer transição de carreira. Durante o tempo que venho estudando, busco me aprimorar na área de desenvolvimento web, front-end. Além de HTML, CSS e JavaScript, tenho focado em desenvolver minhas habilidades usando React.
+
+<br/>
 
 # Conecte-se comigo
+
+<br/>
 
 <a href="https://www.linkedin.com/in/yago-carvalho-dev/" target="_blank">
   <img align="center" alt="yago-linkedin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <hr />
+
+<br/>
 
 # My Skills
 
